@@ -1,0 +1,86 @@
+{
+  "node": {
+    "2cbfd99db9b18c627f1e757227cced9ebf16315d": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc"
+      }
+    },
+    "370bf3d3aebcb83020f49391b88c044a9755107d": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc"
+      }
+    },
+    "5c069390e6d0c763eea13974c1be9cf903c1d701": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc"
+      }
+    },
+    "7c9cc97187c232ea40ba6924b3fac951b58c84b0": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc"
+      }
+    },
+    "85e5fae31d7d54f4ef9974c33116c5ca0e2378d9": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc"
+      }
+    },
+    "8b4618c19f0e36bc9b220e059cc69c8a88643223": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc"
+      }
+    },
+    "8e7d3fb2a800c7154f5891d0d1eb349ab8193f1c": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc"
+      }
+    },
+    "bc6e20ec1b9882e7cd4e793c1986b7f246162c7d": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CStudy%5C%5CProject%5C%5Chealthcare-main-updated%5C%5Chealthcare-main%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_1%22%2C%22registerPatient%22%2C%22getUser%22%2C%22%24%24ACTION_0%22%2C%22createUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "zjrxyb8UbiDRA3CS52Ku7R7IYZcyaSuiNhJb0HZwt3U="
+}
